@@ -1,4 +1,4 @@
-# Dynamo-DB
+# Dynamo-DB.
 Dynamo Database Service
 ## **What is Amazon DynamoDB?**
 
